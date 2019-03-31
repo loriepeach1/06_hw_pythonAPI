@@ -1,0 +1,11 @@
+city,country,location,newCity,newCountry,lat,long,tempF,humidity,cloud,windMPH,maxTemp,timeStamp
+mataura,pf,"mataura, pf",,,,,,,,,,
+cartagena,co,"cartagena, co",Cartagena,CO,5.03,-75.64,70.34,100,40,4.7,71.6,
+albany,au,"albany, au",Albany,AU,-35.02,117.88,62.6,72,64,9.17,62.6,
+nanortalik,gl,"nanortalik, gl",Nanortalik,GL,60.14,-45.24,26.9,100,20,22.53,26.9,
+kaeo,nz,"kaeo, nz",Kaeo,NZ,-35.1,173.78,70,96,92,14,70,
+barrow,us,"barrow, us",Barrow,US,39.51,-90.4,41.58,48,1,6.93,43,
+tuatapere,nz,"tuatapere, nz",Tuatapere,NZ,-46.13,167.69,57,64,44,5.01,57,
+benha,eg,"benha, eg",,,,,,,,,,
+vilyuysk,ru,"vilyuysk, ru",Vilyuysk,RU,63.75,121.63,20.24,77,20,3.06,20.24,
+busselton,au,"busselton, au",Busselton,AU,-33.64,115.35,68.04,49,80,12.01,70,

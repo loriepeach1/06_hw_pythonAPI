@@ -1,0 +1,11 @@
+city,country,location,newCity,newCountry,lat,long,tempF,humidity,cloud,windMPH,maxTemp
+lolua,tv,"lolua, tv",,,,,,,,,
+taolanaro,mg,"taolanaro, mg",,,,,,,,,
+pevek,ru,"pevek, ru",Pevek,RU,69.7,170.27,-0.26,77,0,3.69,-0.26
+ushuaia,ar,"ushuaia, ar",Ushuaia,AR,-54.81,-68.31,51.04,81,75,16.11,51.8
+punta arenas,cl,"punta arenas, cl",Punta Arenas,CL,-53.16,-70.91,55.24,66,75,13.87,55.4
+sovetskiy,ru,"sovetskiy, ru",Sovetskiy,RU,56.76,48.47,34.49,88,0,14.65,34.49
+bluff,nz,"bluff, nz",Bluff,NZ,-46.6,168.33,55,73,48,10,55
+chokurdakh,ru,"chokurdakh, ru",Chokurdakh,RU,70.62,147.9,9.65,70,36,2.91,9.65
+rikitea,pf,"rikitea, pf",Rikitea,PF,-23.12,-134.97,76.88,100,68,18.57,76.88
+new norfolk,au,"new norfolk, au",New Norfolk,AU,-42.78,147.06,46.42,66,75,9.17,50

@@ -1,0 +1,703 @@
+city,country,location,newCity,newCountry,lat,long,tempF,humidity,cloud,windMPH,maxTemp,date
+talnakh,ru,"talnakh, ru",Talnakh,RU,69.49,88.39,29.27,97,88,13.8,29.27,2019-03-31
+saint anthony,ca,"saint anthony, ca",,,,,,,,,,2019-03-31
+tiksi,ru,"tiksi, ru",Tiksi,RU,71.64,128.87,29.45,78,8,8.21,29.45,2019-03-31
+busselton,au,"busselton, au",Busselton,AU,-33.64,115.35,78.3,41,48,12.35,81,2019-03-31
+yellowknife,ca,"yellowknife, ca",Yellowknife,CA,62.45,-114.38,32.92,86,90,13.87,33.8,2019-03-31
+portland,au,"portland, au",Portland,AU,-33.35,149.98,64.99,56,68,10,64.99,2019-03-31
+terrace,ca,"terrace, ca",Terrace,CA,54.52,-128.61,59,28,20,6.93,59,2019-03-31
+fort saint james,ca,"fort saint james, ca",Fort Saint James,CA,54.43,-124.25,38.81,68,44,3.51,38.81,2019-03-31
+nizhneyansk,ru,"nizhneyansk, ru",,,,,,,,,,2019-03-31
+kahuta,pk,"kahuta, pk",Kahuta,PK,33.59,73.39,64.99,56,0,4.29,64.99,2019-03-31
+saleaula,ws,"saleaula, ws",,,,,,,,,,2019-03-31
+la tuque,ca,"la tuque, ca",La Tuque,CA,47.44,-72.79,23.96,70,80,9.66,23.96,2019-03-31
+sola,vu,"sola, vu",Sola,VU,-13.88,167.55,80.84,100,56,3.18,80.84,2019-03-31
+chapais,ca,"chapais, ca",Chapais,CA,49.78,-74.86,15.8,56,90,12.75,15.8,2019-03-31
+leopold,au,"leopold, au",Leopold,AU,-38.18,144.47,60.39,51,0,8.05,63,2019-03-31
+hithadhoo,mv,"hithadhoo, mv",Hithadhoo,MV,-0.6,73.08,83.18,100,0,5.53,83.18,2019-03-31
+ust-nera,ru,"ust-nera, ru",Ust-Nera,RU,64.57,143.24,15.86,74,0,2.39,15.86,2019-03-31
+rikitea,pf,"rikitea, pf",Rikitea,PF,-23.12,-134.97,76.79,100,36,16.82,76.79,2019-03-31
+ushuaia,ar,"ushuaia, ar",Ushuaia,AR,-54.81,-68.31,50,76,90,9.17,50,2019-03-31
+punta arenas,cl,"punta arenas, cl",Punta Arenas,CL,-53.16,-70.91,51.39,81,75,9.17,51.8,2019-03-31
+acarau,br,"acarau, br",,,,,,,,,,2019-03-31
+zigong,cn,"zigong, cn",Zigong,CN,29.34,104.78,59.06,99,92,3.29,59.06,2019-03-31
+barrow,us,"barrow, us",Barrow,US,39.51,-90.4,36.01,69,1,3.51,39.2,2019-03-31
+sitka,us,"sitka, us",Sitka,US,37.17,-99.65,42.01,37,0,5.01,42.01,2019-03-31
+bandarbeyla,so,"bandarbeyla, so",Bandarbeyla,SO,9.49,50.81,77.78,100,76,2.62,77.78,2019-03-31
+touros,br,"touros, br",Touros,BR,-5.2,-35.46,77,100,40,3.36,77,2019-03-31
+vaini,to,"vaini, to",Vaini,TO,-21.2,-175.2,84.2,79,40,11.41,84.2,2019-03-31
+hit,iq,"hit, iq",Hit,IQ,33.64,42.83,50.96,96,88,10.11,50.96,2019-03-31
+barentsburg,sj,"barentsburg, sj",,,,,,,,,,2019-03-31
+hobart,au,"hobart, au",Hobart,AU,-42.88,147.33,59.81,44,75,11.41,61,2019-03-31
+guerrero negro,mx,"guerrero negro, mx",Guerrero Negro,MX,27.97,-114.04,71.66,29,48,10.56,71.66,2019-03-31
+kodiak,us,"kodiak, us",Kodiak,US,39.95,-94.76,39.42,37,1,5.82,42.8,2019-03-31
+kapaa,us,"kapaa, us",Kapaa,US,22.08,-159.32,79.3,54,1,16.11,82.4,2019-03-31
+hermanus,za,"hermanus, za",Hermanus,ZA,-34.42,19.24,57.99,72,44,6.42,57.99,2019-03-31
+mayumba,ga,"mayumba, ga",Mayumba,GA,-3.44,10.65,81.29,97,100,5.64,81.29,2019-03-31
+coihaique,cl,"coihaique, cl",Coihaique,CL,-45.58,-72.07,55.4,58,0,28.86,55.4,2019-03-31
+nikolskoye,ru,"nikolskoye, ru",Nikolskoye,RU,59.7,30.79,30.58,84,0,8.95,32,2019-03-31
+nikki,bj,"nikki, bj",Nikki,BJ,9.94,3.21,81.38,51,48,8.1,81.38,2019-03-31
+bayanday,ru,"bayanday, ru",Bayanday,RU,53.07,105.52,39.08,35,8,3.85,39.08,2019-03-31
+lebu,cl,"lebu, cl",Lebu,CL,-37.62,-73.65,54.74,98,92,10.11,54.74,2019-03-31
+new norfolk,au,"new norfolk, au",New Norfolk,AU,-42.78,147.06,59.61,44,75,11.41,61,2019-03-31
+tura,ru,"tura, ru",Tura,RU,64.27,100.22,35.3,81,92,6.76,35.3,2019-03-31
+charters towers,au,"charters towers, au",Charters Towers,AU,-20.07,146.27,72.38,85,64,8.21,72.38,2019-03-31
+tuktoyaktuk,ca,"tuktoyaktuk, ca",Tuktoyaktuk,CA,69.44,-133.03,21.2,85,75,23.04,21.2,2019-03-31
+chicama,pe,"chicama, pe",Chicama,PE,-7.84,-79.15,69.8,88,75,10.29,69.8,2019-03-31
+zagorje ob savi,si,"zagorje ob savi, si",Zagorje ob Savi,SI,46.13,15,38.82,84,0,2.24,46,2019-03-31
+anaconda,us,"anaconda, us",Anaconda,US,46.13,-112.94,41,52,90,6.93,41,2019-03-31
+ambon,id,"ambon, id",Ambon,ID,-3.7,128.18,84.35,92,56,12.46,84.35,2019-03-31
+algete,es,"algete, es",Algete,ES,40.6,-3.5,46.96,93,40,3.36,50,2019-03-31
+cockburn town,tc,"cockburn town, tc",Cockburn Town,TC,21.46,-71.14,77.15,100,0,11.23,77.15,2019-03-31
+khatanga,ru,"khatanga, ru",Khatanga,RU,71.98,102.47,30.53,97,88,6.64,30.53,2019-03-31
+torbay,ca,"torbay, ca",Torbay,CA,47.66,-52.73,38.21,100,90,13.87,42.01,2019-03-31
+faya,td,"faya, td",,,,,,,,,,2019-03-31
+zeya,ru,"zeya, ru",Zeya,RU,53.74,127.27,28.55,43,0,3.74,28.55,2019-03-31
+atambua,id,"atambua, id",Atambua,ID,-9.11,124.89,83.81,96,0,4.18,83.81,2019-03-31
+kruisfontein,za,"kruisfontein, za",Kruisfontein,ZA,-34,24.73,58.7,91,32,22.08,58.7,2019-03-31
+jamestown,sh,"jamestown, sh",Jamestown,SH,-15.94,-5.72,75.35,100,88,14.81,75.35,2019-03-31
+mar del plata,ar,"mar del plata, ar",Mar del Plata,AR,-46.43,-67.52,63.2,48,36,13.13,63.2,2019-03-31
+nelson bay,au,"nelson bay, au",Nelson Bay,AU,-32.72,152.14,68.32,59,75,11.41,72,2019-03-31
+qaanaaq,gl,"qaanaaq, gl",Qaanaaq,GL,77.48,-69.36,-1.79,79,68,6.42,-1.79,2019-03-31
+miri,my,"miri, my",Miri,MY,4.41,114.01,84.2,79,40,8.05,84.2,2019-03-31
+nha trang,vn,"nha trang, vn",Nha Trang,VN,12.24,109.19,86,74,20,2.24,86,2019-03-31
+iqaluit,ca,"iqaluit, ca",Iqaluit,CA,63.75,-68.52,3.2,77,75,4.18,3.2,2019-03-31
+rawson,ar,"rawson, ar",Rawson,AR,-43.3,-65.11,57.26,49,0,2.95,57.26,2019-03-31
+catuday,ph,"catuday, ph",Catuday,PH,16.29,119.81,83.9,91,20,6.31,83.9,2019-03-31
+kirkland lake,ca,"kirkland lake, ca",Kirkland Lake,CA,48.15,-80.03,21.2,53,1,6.93,21.2,2019-03-31
+saint george,bm,"saint george, bm",Saint George,BM,32.38,-64.68,66.47,88,40,8.05,68,2019-03-31
+margate,za,"margate, za",Margate,ZA,-30.86,30.37,72.11,94,48,9.55,72.11,2019-03-31
+ouesso,cg,"ouesso, cg",Ouesso,CG,1.61,16.05,71.12,98,56,1.61,71.12,2019-03-31
+carnarvon,au,"carnarvon, au",Carnarvon,AU,-24.87,113.63,82.4,78,20,5.82,82.4,2019-03-31
+upernavik,gl,"upernavik, gl",Upernavik,GL,72.79,-56.15,10.73,100,80,4.85,10.73,2019-03-31
+hilo,us,"hilo, us",Hilo,US,19.71,-155.08,75.72,83,90,16.11,80.01,2019-03-31
+san patricio,mx,"san patricio, mx",San Patricio,MX,19.22,-104.7,80.6,74,5,11.41,80.6,2019-03-31
+candido mendes,br,"candido mendes, br",Candido Mendes,BR,-1.45,-45.72,78.86,100,88,7.76,78.86,2019-03-31
+georgetown,sh,"georgetown, sh",Georgetown,SH,-7.93,-14.42,82.46,99,8,15.26,82.46,2019-03-31
+villa del rosario,ve,"villa del rosario, ve",Villa del Rosario,VE,10.32,-72.31,70.49,91,32,6.2,70.49,2019-03-31
+mount gambier,au,"mount gambier, au",Mount Gambier,AU,-37.83,140.78,60.8,55,90,3.36,60.8,2019-03-31
+rio rancho,us,"rio rancho, us",Rio Rancho,US,35.27,-106.63,33.82,93,90,9.17,37,2019-03-31
+mackay,au,"mackay, au",Mackay,AU,-21.15,149.2,81.72,65,90,12.75,82.99,2019-03-31
+victoria,sc,"victoria, sc",Victoria,SC,-4.62,55.45,82.4,78,20,4.7,82.4,2019-03-31
+mataura,pf,"mataura, pf",,,,,,,,,,2019-03-31
+east london,za,"east london, za",East London,ZA,-33.02,27.91,71.21,100,80,27.34,71.21,2019-03-31
+devonport,au,"devonport, au",Devonport,AU,-41.18,146.36,63.66,47,0,8.01,66,2019-03-31
+xucheng,cn,"xucheng, cn",Xucheng,CN,33,118.51,77,44,0,1.01,77,2019-03-31
+racine,us,"racine, us",Racine,US,42.73,-87.78,29.84,63,1,8.32,33.01,2019-03-31
+dikson,ru,"dikson, ru",Dikson,RU,73.51,80.55,30.17,97,76,19.39,30.17,2019-03-31
+mys shmidta,ru,"mys shmidta, ru",,,,,,,,,,2019-03-31
+airai,pw,"airai, pw",,,,,,,,,,2019-03-31
+buala,sb,"buala, sb",Buala,SB,-8.15,159.59,80.03,100,92,2.51,80.03,2019-03-31
+la rioja,ar,"la rioja, ar",La Rioja,AR,-29.41,-66.86,69.86,83,12,4.07,69.86,2019-03-31
+sioux lookout,ca,"sioux lookout, ca",Sioux Lookout,CA,50.1,-91.92,29.46,50,75,3.36,30.2,2019-03-31
+namibe,ao,"namibe, ao",Namibe,AO,-15.19,12.15,77.87,100,0,6.2,77.87,2019-03-31
+howard springs,au,"howard springs, au",Howard Springs,AU,-12.5,131.05,88.95,52,0,10.29,90,2019-03-31
+sentyabrskiy,ru,"sentyabrskiy, ru",,,,,,,,,,2019-03-31
+pisco,pe,"pisco, pe",Pisco,PE,-13.71,-76.2,75.2,69,12,10.29,75.2,2019-03-31
+puerto ayora,ec,"puerto ayora, ec",Puerto Ayora,EC,-0.74,-90.35,79,91,0,6.98,79,2019-03-31
+liverpool,ca,"liverpool, ca",Liverpool,CA,44.04,-64.71,46,96,80,4,46,2019-03-31
+kirn,de,"kirn, de",Kirn,DE,49.79,7.46,42.6,86,0,8.05,48,2019-03-31
+kahului,us,"kahului, us",Kahului,US,20.89,-156.47,79.5,58,40,11.41,86,2019-03-31
+bethel,us,"bethel, us",Bethel,US,60.79,-161.76,49.05,43,1,6.93,51.8,2019-03-31
+itarema,br,"itarema, br",Itarema,BR,-2.92,-39.92,77.69,97,92,4.18,77.69,2019-03-31
+taolanaro,mg,"taolanaro, mg",,,,,,,,,,2019-03-31
+nador,ma,"nador, ma",Nador,MA,35.17,-2.93,54.48,93,0,3.36,55.4,2019-03-31
+goundam,ml,"goundam, ml",Goundam,ML,16.42,-3.66,83.9,32,12,16.71,83.9,2019-03-31
+arraial do cabo,br,"arraial do cabo, br",Arraial do Cabo,BR,-22.97,-42.02,74.99,98,20,3.62,74.99,2019-03-31
+isiro,cd,"isiro, cd",Isiro,CD,2.77,27.62,67.7,97,24,2.62,67.7,2019-03-31
+rafai,cf,"rafai, cf",Rafai,CF,4.95,23.92,74.18,75,12,8.43,74.18,2019-03-31
+cape town,za,"cape town, za",Cape Town,ZA,-33.93,18.42,59.32,72,40,11.41,61,2019-03-31
+butaritari,ki,"butaritari, ki",Butaritari,KI,3.07,172.79,80.93,100,88,9.55,80.93,2019-03-31
+leningradskiy,ru,"leningradskiy, ru",Leningradskiy,RU,69.38,178.42,11,92,56,12.24,11,2019-03-31
+ponta do sol,cv,"ponta do sol, cv",Ponta do Sol,CV,17.2,-25.09,69.8,60,20,23.04,69.8,2019-03-31
+thompson,ca,"thompson, ca",Thompson,CA,55.74,-97.86,26.6,49,75,8.05,26.6,2019-03-31
+castro,cl,"castro, cl",Castro,CL,-42.48,-73.76,53.6,100,90,6.93,53.6,2019-03-31
+avarua,ck,"avarua, ck",Avarua,CK,-21.21,-159.78,84.2,83,0,10.29,84.2,2019-03-31
+sri aman,my,"sri aman, my",Sri Aman,MY,1.24,111.46,82.4,83,75,2.24,82.4,2019-03-31
+santa fe,cu,"santa fe, cu",Santa Fe,CU,23.13,-82.26,73.2,69,20,5.82,73.4,2019-03-31
+hasaki,jp,"hasaki, jp",Hasaki,JP,35.73,140.83,55.11,30,40,6.93,57,2019-03-31
+bredasdorp,za,"bredasdorp, za",Bredasdorp,ZA,-34.53,20.04,56.86,82,8,9.17,57.99,2019-03-31
+asau,tv,"asau, tv",,,,,,,,,,2019-03-31
+meulaboh,id,"meulaboh, id",Meulaboh,ID,4.14,96.13,82.73,100,12,3.4,82.73,2019-03-31
+bengkulu,id,"bengkulu, id",,,,,,,,,,2019-03-31
+kibala,ao,"kibala, ao",,,,,,,,,,2019-03-31
+inirida,co,"inirida, co",Inirida,CO,3.87,-67.92,76.52,94,0,2.17,76.52,2019-03-31
+atuona,pf,"atuona, pf",Atuona,PF,-9.8,-139.03,82.28,100,20,12.01,82.28,2019-03-31
+altay,cn,"altay, cn",Altay,CN,47.83,88.13,38.45,71,8,2.73,38.45,2019-03-31
+sisimiut,gl,"sisimiut, gl",Sisimiut,GL,66.94,-53.67,13.16,100,68,2.06,13.16,2019-03-31
+tarudant,ma,"tarudant, ma",,,,,,,,,,2019-03-31
+biltine,td,"biltine, td",Biltine,TD,14.53,20.93,68.15,24,0,8.77,68.15,2019-03-31
+narsaq,gl,"narsaq, gl",Narsaq,GL,60.91,-46.05,14,43,0,9.17,14,2019-03-31
+haines junction,ca,"haines junction, ca",Haines Junction,CA,60.75,-137.51,37.19,50,0,2.06,37.19,2019-03-31
+xingcheng,cn,"xingcheng, cn",Xingcheng,CN,40.62,120.71,49.61,27,0,11.68,49.61,2019-03-31
+louisbourg,ca,"louisbourg, ca",,,,,,,,,,2019-03-31
+san cristobal,ec,"san cristobal, ec",San Cristobal,EC,-1.02,-79.44,63.38,100,56,0.83,63.38,2019-03-31
+skibbereen,ie,"skibbereen, ie",Skibbereen,IE,51.55,-9.27,41,93,75,5.82,41,2019-03-31
+taltal,cl,"taltal, cl",Taltal,CL,-25.41,-70.49,55.19,100,12,1.5,55.19,2019-03-31
+xiangdong,cn,"xiangdong, cn",,,,,,,,,,2019-03-31
+tyrma,ru,"tyrma, ru",Tyrma,RU,50.04,132.17,31.97,55,44,3.62,31.97,2019-03-31
+bambous virieux,mu,"bambous virieux, mu",Bambous Virieux,MU,-20.34,57.76,75.09,94,40,9.17,75.2,2019-03-31
+antigonish,ca,"antigonish, ca",Antigonish,CA,45.62,-61.99,39.33,100,90,8.05,44.01,2019-03-31
+maragogi,br,"maragogi, br",Maragogi,BR,-9.01,-35.22,77.96,98,88,2.95,77.96,2019-03-31
+college,us,"college, us",College,US,64.86,-147.8,51.6,45,1,4.7,55.4,2019-03-31
+ribeira grande,pt,"ribeira grande, pt",Ribeira Grande,PT,38.52,-28.7,59.33,100,64,25.55,59.33,2019-03-31
+jiddah,sa,"jiddah, sa",,,,,,,,,,2019-03-31
+saskylakh,ru,"saskylakh, ru",Saskylakh,RU,71.97,114.09,26.39,92,44,13.24,26.39,2019-03-31
+albany,au,"albany, au",Albany,AU,-35.02,117.88,77,44,76,18.34,77,2019-03-31
+salym,ru,"salym, ru",Salym,RU,60.06,71.48,31.52,69,0,10.78,31.52,2019-03-31
+barcelos,br,"barcelos, br",Barcelos,BR,-0.97,-62.93,80.21,89,12,2.62,80.21,2019-03-31
+illoqqortoormiut,gl,"illoqqortoormiut, gl",,,,,,,,,,2019-03-31
+chuy,uy,"chuy, uy",Chuy,UY,-33.69,-53.46,64.01,90,44,4.97,64.01,2019-03-31
+dhidhdhoo,mv,"dhidhdhoo, mv",Dhidhdhoo,MV,6.88,73.1,84.35,100,0,3.4,84.35,2019-03-31
+aklavik,ca,"aklavik, ca",Aklavik,CA,68.22,-135.01,30.2,80,90,16.11,30.2,2019-03-31
+gushikawa,jp,"gushikawa, jp",Gushikawa,JP,26.35,127.87,62.96,52,75,17.22,64.4,2019-03-31
+serdobsk,ru,"serdobsk, ru",Serdobsk,RU,52.46,44.21,34.94,89,36,13.13,34.94,2019-03-31
+pangnirtung,ca,"pangnirtung, ca",Pangnirtung,CA,66.15,-65.72,7.31,75,76,7.2,7.31,2019-03-31
+port-gentil,ga,"port-gentil, ga",Port-Gentil,GA,-0.72,8.78,81.92,98,8,5.97,81.92,2019-03-31
+bonavista,ca,"bonavista, ca",Bonavista,CA,48.65,-53.11,34,87,48,4,34,2019-03-31
+port elizabeth,za,"port elizabeth, za",Port Elizabeth,ZA,-33.92,25.57,64.4,77,0,29.97,64.4,2019-03-31
+clyde river,ca,"clyde river, ca",Clyde River,CA,70.47,-68.59,1.4,91,90,6.93,1.4,2019-03-31
+indija,rs,"indija, rs",,,,,,,,,,2019-03-31
+saint-francois,gp,"saint-francois, gp",Saint-Francois,GP,16.25,-61.27,75.2,78,20,3.36,75.2,2019-03-31
+cabedelo,br,"cabedelo, br",Cabedelo,BR,-6.97,-34.84,77,100,75,5.82,77,2019-03-31
+paso de los toros,uy,"paso de los toros, uy",Paso de los Toros,UY,-32.81,-56.52,71.03,88,68,9.66,71.03,2019-03-31
+ketchikan,us,"ketchikan, us",Ketchikan,US,55.34,-131.65,52.74,57,1,13.87,53.6,2019-03-31
+willowmore,za,"willowmore, za",Willowmore,ZA,-33.3,23.49,50.6,84,68,8.77,50.6,2019-03-31
+laguna,br,"laguna, br",,,,,,,,,,2019-03-31
+mount isa,au,"mount isa, au",Mount Isa,AU,-20.73,139.49,77,29,0,10.29,77,2019-03-31
+saint-pierre,pm,"saint-pierre, pm",Saint-Pierre,PM,46.77,-56.17,34.85,90,88,17.16,34.85,2019-03-31
+saint-philippe,re,"saint-philippe, re",Saint-Philippe,RE,-21.36,55.77,72.82,65,0,5.82,78.8,2019-03-31
+cairo montenotte,it,"cairo montenotte, it",Cairo Montenotte,IT,44.4,8.27,48.69,76,0,2.24,51.8,2019-03-31
+samarai,pg,"samarai, pg",Samarai,PG,-10.62,150.67,76.34,100,92,13.35,76.34,2019-03-31
+karratha,au,"karratha, au",Karratha,AU,-20.74,116.85,98.03,28,0,3.62,98.03,2019-03-31
+canutama,br,"canutama, br",Canutama,BR,-6.53,-64.38,78.05,91,0,2.17,78.05,2019-03-31
+acari,pe,"acari, pe",Acari,PE,-15.44,-74.62,59.24,89,20,1.5,59.24,2019-03-31
+languyan,ph,"languyan, ph",Languyan,PH,5.26,120.08,82.19,98,80,10.22,82.19,2019-03-31
+tidore,id,"tidore, id",,,,,,,,,,2019-03-31
+bluff,nz,"bluff, nz",Bluff,NZ,-46.6,168.33,57,55,64,7,57,2019-03-31
+ust-maya,ru,"ust-maya, ru",Ust-Maya,RU,60.42,134.54,28.46,57,0,5.3,28.46,2019-03-31
+hohhot,cn,"hohhot, cn",Hohhot,CN,40.81,111.65,39.2,19,0,4.47,39.2,2019-03-31
+vardo,no,"vardo, no",Vardo,NO,70.37,31.11,33.86,100,0,30.13,33.86,2019-03-31
+dingle,ie,"dingle, ie",Dingle,IE,52.14,-10.27,46.01,100,12,4.63,46.01,2019-03-31
+kavieng,pg,"kavieng, pg",Kavieng,PG,-2.57,150.8,82.46,100,36,7.87,82.46,2019-03-31
+palabuhanratu,id,"palabuhanratu, id",,,,,,,,,,2019-03-31
+tasiilaq,gl,"tasiilaq, gl",Tasiilaq,GL,65.61,-37.64,21.2,67,88,14.99,21.2,2019-03-31
+mormugao,in,"mormugao, in",,,,,,,,,,2019-03-31
+chokurdakh,ru,"chokurdakh, ru",Chokurdakh,RU,70.62,147.9,21.35,96,0,4.97,21.35,2019-03-31
+north bend,us,"north bend, us",North Bend,US,43.41,-124.22,51.53,87,90,6.93,53.01,2019-03-31
+cabinda,ao,"cabinda, ao",Cabinda,AO,-5.56,12.19,82.73,100,88,7.99,82.73,2019-03-31
+camana,pe,"camana, pe",,,,,,,,,,2019-03-31
+port harcourt,ng,"port harcourt, ng",Port Harcourt,NG,4.77,7.02,74.45,94,0,4.18,74.45,2019-03-31
+pangai,to,"pangai, to",Pangai,TO,-19.8,-174.35,82.4,83,40,6.93,82.4,2019-03-31
+broome,au,"broome, au",Broome,AU,-17.97,122.23,89.6,43,0,9.17,89.6,2019-03-31
+vao,nc,"vao, nc",Vao,NC,-22.67,167.48,77.6,100,20,8.99,77.6,2019-03-31
+guangyuan,cn,"guangyuan, cn",Guangyuan,CN,32.43,105.86,67.44,55,92,2.95,68,2019-03-31
+chimbote,pe,"chimbote, pe",Chimbote,PE,-9.08,-78.59,67.88,95,20,8.77,67.88,2019-03-31
+jumla,np,"jumla, np",Jumla,NP,29.28,82.18,34.13,82,32,1.72,34.13,2019-03-31
+calama,cl,"calama, cl",Calama,CL,-22.46,-68.93,62.6,36,0,6.93,62.6,2019-03-31
+sitrah,bh,"sitrah, bh",Sitrah,BH,26.15,50.62,75.2,69,0,18.34,75.2,2019-03-31
+tabuk,ph,"tabuk, ph",Tabuk,PH,17.41,121.44,75.62,79,20,2.95,75.62,2019-03-31
+dudinka,ru,"dudinka, ru",Dudinka,RU,69.41,86.18,29.45,94,80,17.83,29.45,2019-03-31
+qui nhon,vn,"qui nhon, vn",,,,,,,,,,2019-03-31
+nioro,ml,"nioro, ml",,,,,,,,,,2019-03-31
+lompoc,us,"lompoc, us",Lompoc,US,34.64,-120.46,63.73,63,1,5.82,71.6,2019-03-31
+morristown,us,"morristown, us",Morristown,US,36.21,-83.29,38.34,41,20,9.17,42.8,2019-03-31
+huarmey,pe,"huarmey, pe",Huarmey,PE,-10.07,-78.15,64.28,90,8,3.96,64.28,2019-03-31
+hamilton,bm,"hamilton, bm",Hamilton,BM,32.3,-64.78,66.54,88,40,8.05,68,2019-03-31
+seoul,kr,"seoul, kr",Seoul,KR,37.57,126.98,45.66,24,1,5.82,48.2,2019-03-31
+san matias,bo,"san matias, bo",San Matias,BO,-16.36,-58.4,78.05,86,0,2.95,78.05,2019-03-31
+asbe teferi,et,"asbe teferi, et",Asbe Teferi,ET,9.08,40.87,59.33,63,76,2.73,59.33,2019-03-31
+sao filipe,cv,"sao filipe, cv",Sao Filipe,CV,14.9,-24.5,70.31,98,0,14.7,70.31,2019-03-31
+santana,br,"santana, br",Santana,BR,-0.06,-51.18,78.8,100,75,5.82,78.8,2019-03-31
+pevek,ru,"pevek, ru",Pevek,RU,69.7,170.27,11.63,76,20,3.29,11.63,2019-03-31
+deputatskiy,ru,"deputatskiy, ru",Deputatskiy,RU,69.3,139.9,19.01,90,32,3.74,19.01,2019-03-31
+dharmadam,in,"dharmadam, in",Dharmadam,IN,11.78,75.43,83,71,0,3.18,83,2019-03-31
+kaeo,nz,"kaeo, nz",Kaeo,NZ,-35.1,173.78,71.01,95,92,5.99,71.01,2019-03-31
+tayu,id,"tayu, id",Tayu,ID,-6.54,111.05,84.62,92,24,3.96,84.62,2019-03-31
+riverton,nz,"riverton, nz",Riverton,NZ,-46.35,168.02,57,55,76,7,57,2019-03-31
+barsovo,ru,"barsovo, ru",Barsovo,RU,61.17,73.17,32,93,75,15.66,32,2019-03-31
+nouadhibou,mr,"nouadhibou, mr",Nouadhibou,MR,20.93,-17.03,63.2,90,8,18.84,63.2,2019-03-31
+mitsamiouli,km,"mitsamiouli, km",Mitsamiouli,KM,-11.38,43.28,82.55,100,68,7.65,82.55,2019-03-31
+jalu,ly,"jalu, ly",Jalu,LY,29.03,21.55,47.9,68,0,3.74,47.9,2019-03-31
+ouadda,cf,"ouadda, cf",Ouadda,CF,8.07,22.4,78.23,49,36,3.74,78.23,2019-03-31
+prince rupert,ca,"prince rupert, ca",Prince Rupert,CA,54.32,-130.32,53.6,58,1,4.7,53.6,2019-03-31
+boguchany,ru,"boguchany, ru",Boguchany,RU,58.38,97.46,41.15,76,80,8.77,41.15,2019-03-31
+naze,jp,"naze, jp",Naze,JP,28.37,129.48,62.6,42,20,17.22,62.6,2019-03-31
+baykit,ru,"baykit, ru",Baykit,RU,61.68,96.39,33.95,91,92,12.12,33.95,2019-03-31
+najran,sa,"najran, sa",Najran,SA,17.54,44.22,73.4,28,0,2.24,73.4,2019-03-31
+aksarka,ru,"aksarka, ru",Aksarka,RU,66.56,67.8,21.44,92,36,10.89,21.44,2019-03-31
+moose factory,ca,"moose factory, ca",Moose Factory,CA,51.26,-80.61,17.6,57,1,4.7,17.6,2019-03-31
+galgani,sd,"galgani, sd",,,,,,,,,,2019-03-31
+beringovskiy,ru,"beringovskiy, ru",Beringovskiy,RU,63.05,179.32,32.6,96,88,16.26,32.6,2019-03-31
+asfi,ma,"asfi, ma",,,,,,,,,,2019-03-31
+buchanan,lr,"buchanan, lr",Buchanan,LR,5.88,-10.05,78.8,94,20,5.19,78.8,2019-03-31
+mantua,cu,"mantua, cu",Mantua,CU,22.29,-84.28,76.43,72,80,2.06,76.43,2019-03-31
+yulara,au,"yulara, au",Yulara,AU,-25.24,130.99,73.4,23,0,16.11,73.4,2019-03-31
+mahebourg,mu,"mahebourg, mu",Mahebourg,MU,-20.41,57.7,74.53,94,40,9.17,75.2,2019-03-31
+north myrtle beach,us,"north myrtle beach, us",North Myrtle Beach,US,33.83,-78.68,61.52,72,40,16.04,64.4,2019-03-31
+tygda,ru,"tygda, ru",Tygda,RU,53.11,126.33,35.93,33,0,5.97,35.93,2019-03-31
+boras,se,"boras, se",Boras,SE,57.72,12.94,25.54,63,0,3.36,30.2,2019-03-31
+marzuq,ly,"marzuq, ly",,,,,,,,,,2019-03-31
+isla vista,us,"isla vista, us",Isla Vista,US,34.41,-119.86,63.55,63,1,5.82,66,2019-03-31
+linxia,cn,"linxia, cn",Linxia,CN,35.6,103.21,51.86,26,20,3.74,51.86,2019-03-31
+cherskiy,ru,"cherskiy, ru",Cherskiy,RU,68.75,161.3,16.13,68,0,3.96,16.13,2019-03-31
+aljustrel,pt,"aljustrel, pt",Aljustrel,PT,37.88,-8.16,54.95,93,0,4.7,55.99,2019-03-31
+senmonorom,kh,"senmonorom, kh",,,,,,,,,,2019-03-31
+elko,us,"elko, us",Elko,US,40.83,-115.76,50.86,23,1,5.82,53.6,2019-03-31
+zhigansk,ru,"zhigansk, ru",Zhigansk,RU,66.77,123.37,26.93,78,64,8.43,26.93,2019-03-31
+constitucion,mx,"constitucion, mx",Constitucion,MX,23.99,-104.67,73.76,10,20,12.75,77,2019-03-31
+krasnoselkup,ru,"krasnoselkup, ru",,,,,,,,,,2019-03-31
+los llanos de aridane,es,"los llanos de aridane, es",Los Llanos de Aridane,ES,28.66,-17.92,55.71,67,92,6.93,59,2019-03-31
+cayenne,gf,"cayenne, gf",Cayenne,GF,4.94,-52.33,78.8,78,80,6.98,78.8,2019-03-31
+balabac,ph,"balabac, ph",Balabac,PH,7.99,117.06,83.45,97,0,8.77,83.45,2019-03-31
+polunochnoye,ru,"polunochnoye, ru",Polunochnoye,RU,60.87,60.43,28.28,96,92,8.77,28.28,2019-03-31
+matay,eg,"matay, eg",Matay,EG,28.42,30.79,46.91,59,8,5.19,46.91,2019-03-31
+kaitangata,nz,"kaitangata, nz",Kaitangata,NZ,-46.28,169.85,61,42,32,13,61,2019-03-31
+tambul,sd,"tambul, sd",,,,,,,,,,2019-03-31
+ghazipur,in,"ghazipur, in",Ghazipur,IN,25.59,83.59,77.6,63,0,6.08,77.6,2019-03-31
+ballina,ie,"ballina, ie",Ballina,IE,54.11,-9.15,41,87,32,1.99,43,2019-03-31
+bangui,cf,"bangui, cf",Bangui,CF,4.39,18.55,78.8,78,0,2.24,78.8,2019-03-31
+gamba,ga,"gamba, ga",Gamba,GA,-2.72,10.02,82.37,100,92,6.31,82.37,2019-03-31
+cartagena,es,"cartagena, es",Cartagena,ES,37.63,-1,57.2,93,32,5.82,57.2,2019-03-31
+tuy hoa,vn,"tuy hoa, vn",Tuy Hoa,VN,13.08,109.3,83.09,80,20,6.64,83.09,2019-03-31
+henties bay,na,"henties bay, na",Henties Bay,NA,-22.12,14.28,63,85,0,1.99,63,2019-03-31
+lasa,cn,"lasa, cn",,,,,,,,,,2019-03-31
+khudumelapye,bw,"khudumelapye, bw",Khudumelapye,BW,-23.91,24.95,68.33,62,88,0.83,68.33,2019-03-31
+umzimvubu,za,"umzimvubu, za",,,,,,,,,,2019-03-31
+iwanai,jp,"iwanai, jp",Iwanai,JP,42.97,140.51,38,88,48,2.62,38,2019-03-31
+husavik,is,"husavik, is",Husavik,IS,66.04,-17.34,35.6,74,0,4.7,35.6,2019-03-31
+mahibadhoo,mv,"mahibadhoo, mv",Mahibadhoo,MV,3.78,72.97,83.81,100,0,3.96,83.81,2019-03-31
+bolungarvik,is,"bolungarvik, is",,,,,,,,,,2019-03-31
+barinas,ve,"barinas, ve",Barinas,VE,8.64,-70.23,80.3,72,32,5.64,80.3,2019-03-31
+bemidji,us,"bemidji, us",Bemidji,US,47.48,-94.89,29.61,86,90,4.7,30.2,2019-03-31
+la ronge,ca,"la ronge, ca",La Ronge,CA,55.1,-105.3,32,54,75,6.93,32,2019-03-31
+kavaratti,in,"kavaratti, in",Kavaratti,IN,10.57,72.64,84.62,99,0,9.22,84.62,2019-03-31
+santa maria,co,"santa maria, co",Santa Maria,CO,0.95,-77.7,52.67,90,20,1.16,52.67,2019-03-31
+coquimbo,cl,"coquimbo, cl",Coquimbo,CL,-29.95,-71.34,59,77,0,4.7,59,2019-03-31
+esperance,au,"esperance, au",Esperance,AU,-33.86,121.89,75.2,33,88,24.16,75.2,2019-03-31
+buraydah,sa,"buraydah, sa",Buraydah,SA,26.33,43.97,64.4,48,40,16.11,64.4,2019-03-31
+tuatapere,nz,"tuatapere, nz",Tuatapere,NZ,-46.13,167.69,57,55,76,7,57,2019-03-31
+vila franca do campo,pt,"vila franca do campo, pt",Vila Franca do Campo,PT,37.72,-25.43,57.2,71,75,19.46,57.2,2019-03-31
+saint-augustin,ca,"saint-augustin, ca",Saint-Augustin,CA,45.63,-73.98,31.8,74,90,6.93,33.01,2019-03-31
+alofi,nu,"alofi, nu",Alofi,NU,-19.06,-169.92,78.8,88,92,9.17,78.8,2019-03-31
+puebloviejo,ec,"puebloviejo, ec",Puebloviejo,EC,-1.55,-79.53,75.08,97,92,1.61,75.08,2019-03-31
+hihifo,to,"hihifo, to",,,,,,,,,,2019-03-31
+port lincoln,au,"port lincoln, au",Port Lincoln,AU,-34.72,135.86,65.18,94,24,2.95,65.18,2019-03-31
+prieska,za,"prieska, za",Prieska,ZA,-29.67,22.74,63.65,27,0,8.21,63.65,2019-03-31
+porto-vecchio,fr,"porto-vecchio, fr",Porto-Vecchio,FR,41.59,9.28,47.07,75,0,8.05,50,2019-03-31
+kloulklubed,pw,"kloulklubed, pw",Kloulklubed,PW,7.04,134.26,82.4,78,75,9.17,82.4,2019-03-31
+tsihombe,mg,"tsihombe, mg",,,,,,,,,,2019-03-31
+vangaindrano,mg,"vangaindrano, mg",Vangaindrano,MG,-23.35,47.6,67.88,100,92,2.73,67.88,2019-03-31
+longyearbyen,sj,"longyearbyen, sj",Longyearbyen,SJ,78.22,15.64,5,77,20,3.36,5,2019-03-31
+ayr,au,"ayr, au",Ayr,AU,-19.58,147.4,82,69,92,8.01,82,2019-03-31
+alta floresta,br,"alta floresta, br",Alta Floresta,BR,-9.87,-56.08,76.16,92,32,0.72,76.16,2019-03-31
+mayo,ca,"mayo, ca",Mayo,CA,63.59,-135.9,51.8,34,75,8.05,51.8,2019-03-31
+lazaro cardenas,mx,"lazaro cardenas, mx",Lazaro Cardenas,MX,28.39,-105.62,66.72,26,5,6.93,69.8,2019-03-31
+mogadishu,so,"mogadishu, so",Mogadishu,SO,2.04,45.34,83,99,12,13.58,83,2019-03-31
+esil,kz,"esil, kz",Esil,KZ,51.96,66.41,28.28,87,0,7.09,28.28,2019-03-31
+vila velha,br,"vila velha, br",Vila Velha,BR,-3.71,-38.6,77.99,100,68,1.01,79,2019-03-31
+hirara,jp,"hirara, jp",Hirara,JP,24.8,125.28,61.74,93,75,17.22,62.6,2019-03-31
+grand river south east,mu,"grand river south east, mu",,,,,,,,,,2019-03-31
+mugla,tr,"mugla, tr",Mugla,TR,37.22,28.37,51.91,57,0,3.36,52,2019-03-31
+fortuna,us,"fortuna, us",Fortuna,US,40.6,-124.16,53.76,81,90,9.17,55,2019-03-31
+abu dhabi,ae,"abu dhabi, ae",Abu Dhabi,AE,24.47,54.37,84.11,20,0,10.29,86,2019-03-31
+araouane,ml,"araouane, ml",Araouane,ML,18.9,-3.53,76.88,42,20,10.22,76.88,2019-03-31
+karla,ee,"karla, ee",Karla,EE,59.37,24.93,34.12,74,0,13.87,35.6,2019-03-31
+rudnichnyy,ru,"rudnichnyy, ru",Rudnichnyy,RU,59.7,60.29,29.9,89,92,6.42,29.9,2019-03-31
+bluefields,ni,"bluefields, ni",Bluefields,NI,12.01,-83.77,73.46,82,0,3.18,73.46,2019-03-31
+cortes,ph,"cortes, ph",Cortes,PH,9.28,126.19,81.56,77,36,4.07,81.56,2019-03-31
+ixtapa,mx,"ixtapa, mx",Ixtapa,MX,20.71,-105.21,75.11,83,5,11.41,75.2,2019-03-31
+linqu,cn,"linqu, cn",Linqu,CN,36.52,118.54,61,19,0,1.01,61,2019-03-31
+utiroa,ki,"utiroa, ki",,,,,,,,,,2019-03-31
+souillac,mu,"souillac, mu",Souillac,MU,-20.52,57.52,74.55,94,40,9.17,75.2,2019-03-31
+tautira,pf,"tautira, pf",Tautira,PF,-17.73,-149.15,87.35,66,40,5.82,87.8,2019-03-31
+falam,mm,"falam, mm",Falam,MM,22.91,93.68,74,63,0,1.39,74,2019-03-31
+norman wells,ca,"norman wells, ca",Norman Wells,CA,65.28,-126.83,33.8,94,90,10.29,33.8,2019-03-31
+skagastrond,is,"skagastrond, is",,,,,,,,,,2019-03-31
+marsh harbour,bs,"marsh harbour, bs",Marsh Harbour,BS,26.54,-77.06,72.83,100,8,4.41,72.83,2019-03-31
+superior,us,"superior, us",Superior,US,39.95,-105.17,44.04,42,1,3.36,46.4,2019-03-31
+itaituba,br,"itaituba, br",Itaituba,BR,-4.26,-55.99,74.18,97,12,2.17,74.18,2019-03-31
+iquique,cl,"iquique, cl",Iquique,CL,-20.22,-70.14,68,72,0,11.41,68,2019-03-31
+lavrentiya,ru,"lavrentiya, ru",Lavrentiya,RU,65.58,-170.99,29.18,100,64,5.3,29.18,2019-03-31
+samusu,ws,"samusu, ws",,,,,,,,,,2019-03-31
+doctor pedro p. pena,py,"doctor pedro p. pena, py",,,,,,,,,,2019-03-31
+vaitupu,wf,"vaitupu, wf",,,,,,,,,,2019-03-31
+rolim de moura,br,"rolim de moura, br",,,,,,,,,,2019-03-31
+te anau,nz,"te anau, nz",Te Anau,NZ,-45.41,167.72,49.25,68,48,12.24,49.25,2019-03-31
+belushya guba,ru,"belushya guba, ru",,,,,,,,,,2019-03-31
+saint-joseph,re,"saint-joseph, re",Saint-Joseph,RE,-21.37,55.62,72.79,65,0,5.82,78.8,2019-03-31
+nishihara,jp,"nishihara, jp",Nishihara,JP,35.74,139.53,55.89,40,75,6.93,60.01,2019-03-31
+caravelas,br,"caravelas, br",Caravelas,BR,-17.73,-39.27,81.02,100,0,12.01,81.02,2019-03-31
+kamenka,ru,"kamenka, ru",Kamenka,RU,53.19,44.05,35.21,91,56,12.57,35.21,2019-03-31
+saldanha,za,"saldanha, za",Saldanha,ZA,-33.01,17.94,56,91,0,11.01,56,2019-03-31
+port alfred,za,"port alfred, za",Port Alfred,ZA,-33.59,26.89,66.35,94,20,24.54,66.35,2019-03-31
+samalaeulu,ws,"samalaeulu, ws",,,,,,,,,,2019-03-31
+macenta,gn,"macenta, gn",Macenta,GN,8.55,-9.47,68.51,98,56,2.62,68.51,2019-03-31
+synya,ru,"synya, ru",Synya,RU,65.37,58.04,27.47,86,80,7.54,27.47,2019-03-31
+marivan,ir,"marivan, ir",Marivan,IR,35.52,46.18,38.9,94,88,2.06,38.9,2019-03-31
+provideniya,ru,"provideniya, ru",Provideniya,RU,64.42,-173.23,32,100,90,6.71,32,2019-03-31
+griffith,au,"griffith, au",Griffith,AU,-34.29,146.06,70.21,46,40,8.05,71.01,2019-03-31
+winnemucca,us,"winnemucca, us",Winnemucca,US,40.97,-117.74,57.2,20,1,3.36,57.2,2019-03-31
+alegrete,br,"alegrete, br",Alegrete,BR,-29.79,-55.79,74,78,12,9.44,74,2019-03-31
+tabiauea,ki,"tabiauea, ki",,,,,,,,,,2019-03-31
+hongjiang,cn,"hongjiang, cn",Hongjiang,CN,27.21,109.83,51.23,100,100,3.85,51.23,2019-03-31
+dunedin,nz,"dunedin, nz",Dunedin,NZ,-45.87,170.5,66,43,32,17,66,2019-03-31
+marcona,pe,"marcona, pe",,,,,,,,,,2019-03-31
+grand gaube,mu,"grand gaube, mu",Grand Gaube,MU,-20.01,57.66,74.68,94,40,9.17,75.2,2019-03-31
+bayji,iq,"bayji, iq",Bayji,IQ,34.93,43.49,55.1,98,92,4.29,55.1,2019-03-31
+bacuit,ph,"bacuit, ph",,,,,,,,,,2019-03-31
+ugoofaaru,mv,"ugoofaaru, mv",Ugoofaaru,MV,5.67,73,83.99,100,0,2.28,83.99,2019-03-31
+guilin,cn,"guilin, cn",Guilin,CN,25.28,110.29,57.2,82,90,4.74,57.2,2019-03-31
+san quintin,mx,"san quintin, mx",,,,,,,,,,2019-03-31
+armacao dos buzios,br,"armacao dos buzios, br",,,,,,,,,,2019-03-31
+kyra,ru,"kyra, ru",Kyra,RU,49.58,111.97,33.5,50,0,3.4,33.5,2019-03-31
+san pedro,ar,"san pedro, ar",San Pedro,AR,-33.68,-59.66,69.01,79,92,1.99,69.01,2019-03-31
+troitsko-pechorsk,ru,"troitsko-pechorsk, ru",Troitsko-Pechorsk,RU,62.71,56.19,25.67,76,68,2.95,25.67,2019-03-31
+viligili,mv,"viligili, mv",,,,,,,,,,2019-03-31
+raudeberg,no,"raudeberg, no",Raudeberg,NO,61.99,5.14,36.61,100,92,17.22,39,2019-03-31
+gambela,et,"gambela, et",Gambela,ET,8.25,34.59,59.33,78,0,2.73,59.33,2019-03-31
+dharchula,in,"dharchula, in",Dharchula,IN,29.85,80.53,40.7,73,0,1.72,40.7,2019-03-31
+pundaguitan,ph,"pundaguitan, ph",Pundaguitan,PH,6.37,126.17,82.28,95,0,4.07,82.28,2019-03-31
+mezhdurechensk,ru,"mezhdurechensk, ru",Mezhdurechensk,RU,53.69,88.07,38,100,92,5.53,38,2019-03-31
+khetia,in,"khetia, in",Khetia,IN,21.67,74.59,79.67,48,0,7.2,79.67,2019-03-31
+tual,id,"tual, id",Tual,ID,-5.67,132.75,82.28,100,68,15.93,82.28,2019-03-31
+chagda,ru,"chagda, ru",,,,,,,,,,2019-03-31
+nguiu,au,"nguiu, au",,,,,,,,,,2019-03-31
+dengzhou,cn,"dengzhou, cn",Dengzhou,CN,32.69,112.08,65.18,64,0,7.2,65.18,2019-03-31
+kunda,ee,"kunda, ee",Kunda,EE,59.5,26.52,30.98,88,8,10,30.98,2019-03-31
+muroto,jp,"muroto, jp",Muroto,JP,33.37,134.14,51.8,50,40,4.7,51.8,2019-03-31
+ladario,br,"ladario, br",Ladario,BR,-19,-57.6,80.03,77,0,2.17,80.03,2019-03-31
+tahta,eg,"tahta, eg",Tahta,EG,26.77,31.5,42.86,61,0,4.18,42.86,2019-03-31
+fort nelson,ca,"fort nelson, ca",Fort Nelson,CA,58.81,-122.69,50,29,40,6.93,50,2019-03-31
+attawapiskat,ca,"attawapiskat, ca",,,,,,,,,,2019-03-31
+tilichiki,ru,"tilichiki, ru",Tilichiki,RU,60.47,166.1,34.4,91,88,13.13,34.4,2019-03-31
+elk plain,us,"elk plain, us",Elk Plain,US,47.04,-122.37,61.77,27,1,3.36,66,2019-03-31
+buta,cd,"buta, cd",Buta,CD,2.79,24.73,71.3,94,88,2.62,71.3,2019-03-31
+quatre cocos,mu,"quatre cocos, mu",Quatre Cocos,MU,-20.21,57.76,74.61,94,40,9.17,75.2,2019-03-31
+astoria,us,"astoria, us",Astoria,US,46.19,-123.83,54.88,71,1,11.41,59,2019-03-31
+katobu,id,"katobu, id",Katobu,ID,-4.94,122.53,85.25,87,36,2.95,85.25,2019-03-31
+tibagi,br,"tibagi, br",Tibagi,BR,-24.52,-50.41,64.01,79,0,3.4,64.01,2019-03-31
+betioky,mg,"betioky, mg",,,,,,,,,,2019-03-31
+havoysund,no,"havoysund, no",Havoysund,NO,71,24.66,26.6,92,75,41.38,26.6,2019-03-31
+saiha,in,"saiha, in",Saiha,IN,22.49,92.98,77.87,67,12,2.17,77.87,2019-03-31
+tokur,ru,"tokur, ru",Tokur,RU,53.13,132.9,24.05,51,12,5.19,24.05,2019-03-31
+klaksvik,fo,"klaksvik, fo",Klaksvik,FO,62.23,-6.59,41,86,80,12.75,41,2019-03-31
+nyurba,ru,"nyurba, ru",Nyurba,RU,63.29,118.35,34.49,59,32,5.3,34.49,2019-03-31
+sotnikovo,ru,"sotnikovo, ru",Sotnikovo,RU,51.88,107.48,30.2,50,0,4.47,30.2,2019-03-31
+porto santo,pt,"porto santo, pt",Porto Santo,PT,33.07,-16.34,58.77,72,40,8.05,60.8,2019-03-31
+lagoa vermelha,br,"lagoa vermelha, br",Lagoa Vermelha,BR,-28.21,-51.53,62.21,95,44,7.54,62.21,2019-03-31
+inhambane,mz,"inhambane, mz",Inhambane,MZ,-23.87,35.38,68.24,100,0,3.74,68.24,2019-03-31
+kungur,ru,"kungur, ru",Kungur,RU,57.43,56.94,34.58,95,88,16.49,34.58,2019-03-31
+kijang,id,"kijang, id",Kijang,ID,0.9,104.63,77,94,20,4.18,77,2019-03-31
+valparaiso,co,"valparaiso, co",Valparaiso,CO,6.28,-73.78,63.29,95,88,2.95,63.29,2019-03-31
+khani,ru,"khani, ru",,,,,,,,,,2019-03-31
+snasa,no,"snasa, no",Snasa,NO,64.25,12.38,27.83,81,92,8.21,27.83,2019-03-31
+kabare,cd,"kabare, cd",,,,,,,,,,2019-03-31
+ulaanbaatar,mn,"ulaanbaatar, mn",Ulaanbaatar,MN,47.92,106.92,33.8,20,40,2.24,33.8,2019-03-31
+ayagoz,kz,"ayagoz, kz",Ayagoz,KZ,47.96,80.43,45.92,85,12,4.18,45.92,2019-03-31
+vila do maio,cv,"vila do maio, cv",Vila do Maio,CV,15.13,-23.22,68,72,20,18.34,68,2019-03-31
+zyryanovsk,kz,"zyryanovsk, kz",Zyryanovsk,KZ,49.74,84.27,42.14,96,32,2.17,42.14,2019-03-31
+cabo san lucas,mx,"cabo san lucas, mx",Cabo San Lucas,MX,22.89,-109.91,74.19,41,5,9.17,78.8,2019-03-31
+goteborg,se,"goteborg, se",,,,,,,,,,2019-03-31
+tignere,cm,"tignere, cm",Tignere,CM,7.37,12.65,59.06,54,0,2.73,59.06,2019-03-31
+elat,il,"elat, il",,,,,,,,,,2019-03-31
+bonfim,br,"bonfim, br",Bonfim,BR,-20.33,-44.24,69.8,73,0,5.82,69.8,2019-03-31
+mudanya,tr,"mudanya, tr",Mudanya,TR,40.38,28.88,38.66,100,40,3.36,43,2019-03-31
+faanui,pf,"faanui, pf",Faanui,PF,-16.48,-151.75,84.08,100,0,3.74,84.08,2019-03-31
+katsuura,jp,"katsuura, jp",Katsuura,JP,33.93,134.5,47.61,64,40,16.11,50,2019-03-31
+amderma,ru,"amderma, ru",,,,,,,,,,2019-03-31
+tiarei,pf,"tiarei, pf",Tiarei,PF,-17.53,-149.33,87.35,66,40,5.82,87.8,2019-03-31
+kerman,us,"kerman, us",Kerman,US,36.72,-120.06,73.11,40,1,6.93,75.2,2019-03-31
+sorland,no,"sorland, no",Sorland,NO,67.67,12.69,37.82,100,92,19.84,37.82,2019-03-31
+praya,id,"praya, id",Praya,ID,-8.71,116.27,84.2,79,40,2.24,84.2,2019-03-31
+manicore,br,"manicore, br",Manicore,BR,-5.81,-61.3,76.43,93,0,2.06,76.43,2019-03-31
+kokkola,fi,"kokkola, fi",Kokkola,FI,63.84,23.13,30.61,64,0,11.41,32,2019-03-31
+weligama,lk,"weligama, lk",Weligama,LK,5.97,80.42,83,90,0,5.08,83,2019-03-31
+bud,no,"bud, no",Bud,NO,62.91,6.91,35.2,64,92,18.34,39.99,2019-03-31
+diamantino,br,"diamantino, br",Diamantino,BR,-14.4,-56.44,74.99,90,20,3.18,74.99,2019-03-31
+orgun,af,"orgun, af",,,,,,,,,,2019-03-31
+kadykchan,ru,"kadykchan, ru",,,,,,,,,,2019-03-31
+hailar,cn,"hailar, cn",Hailar,CN,49.2,119.7,34.4,27,32,11.45,34.4,2019-03-31
+bourail,nc,"bourail, nc",Bourail,NC,-21.57,165.5,84.53,59,44,4.41,84.53,2019-03-31
+olinda,br,"olinda, br",Olinda,BR,-22.82,-43.41,77.2,69,75,5.82,78.01,2019-03-31
+kamakwie,sl,"kamakwie, sl",Kamakwie,SL,9.5,-12.24,79.13,70,0,7.99,79.13,2019-03-31
+san juan,us,"san juan, us",San Juan,US,26.19,-98.16,48.6,81,90,13.87,50,2019-03-31
+tubinskiy,ru,"tubinskiy, ru",Tubinskiy,RU,52.89,58.22,32,90,40,6.71,32,2019-03-31
+mersing,my,"mersing, my",Mersing,MY,2.43,103.84,85.25,88,36,2.95,85.25,2019-03-31
+namie,jp,"namie, jp",Namie,JP,37.52,140.86,44.91,45,75,9.17,50,2019-03-31
+yumen,cn,"yumen, cn",Yumen,CN,40.29,97.04,49.61,38,64,5.08,49.61,2019-03-31
+bagado,co,"bagado, co",Bagado,CO,5.41,-76.42,77,94,75,0.72,77,2019-03-31
+meyungs,pw,"meyungs, pw",,,,,,,,,,2019-03-31
+isangel,vu,"isangel, vu",Isangel,VU,-19.55,169.27,86,70,40,9.17,86,2019-03-31
+pochutla,mx,"pochutla, mx",Pochutla,MX,15.74,-96.47,81.9,54,75,4.97,82.99,2019-03-31
+bargal,so,"bargal, so",,,,,,,,,,2019-03-31
+huntsville,us,"huntsville, us",Huntsville,US,34.73,-86.59,43.14,56,1,8.05,46.4,2019-03-31
+udalguri,in,"udalguri, in",Udalguri,IN,26.75,92.1,60.68,84,44,1.72,60.68,2019-03-31
+urzhum,ru,"urzhum, ru",Urzhum,RU,57.11,50,34.13,92,48,15.26,34.13,2019-03-31
+lata,sb,"lata, sb",,,,,,,,,,2019-03-31
+chiang khong,th,"chiang khong, th",Chiang Khong,TH,20.26,100.4,68,88,0,2.24,68,2019-03-31
+topolobampo,mx,"topolobampo, mx",Topolobampo,MX,25.6,-109.05,72.86,29,5,12.75,77,2019-03-31
+ranong,th,"ranong, th",Ranong,TH,9.96,98.62,80.6,94,20,4.07,80.6,2019-03-31
+palmer,us,"palmer, us",Palmer,US,61.6,-149.11,49.55,30,1,4.7,54,2019-03-31
+karauli,in,"karauli, in",Karauli,IN,26.5,77.03,77.42,30,0,3.4,77.42,2019-03-31
+obama,jp,"obama, jp",Obama,JP,35.49,135.74,45.86,55,92,1.01,50,2019-03-31
+waingapu,id,"waingapu, id",Waingapu,ID,-9.65,120.26,83.81,84,8,3.74,83.81,2019-03-31
+arlit,ne,"arlit, ne",Arlit,NE,18.74,7.39,70.49,29,0,4.97,70.49,2019-03-31
+lewiston,us,"lewiston, us",Lewiston,US,46.42,-117.02,53.04,80,1,6.93,62.6,2019-03-31
+severo-kurilsk,ru,"severo-kurilsk, ru",Severo-Kurilsk,RU,50.68,156.12,29.63,100,76,2.06,29.63,2019-03-31
+thunder bay,ca,"thunder bay, ca",Thunder Bay,CA,48.41,-89.26,30.22,61,75,6.93,32,2019-03-31
+artyk,ru,"artyk, ru",,,,,,,,,,2019-03-31
+shibetsu,jp,"shibetsu, jp",Shibetsu,JP,44.15,142.46,28.4,58,20,2.24,28.4,2019-03-31
+botucatu,br,"botucatu, br",Botucatu,BR,-22.89,-48.44,66.26,71,8,8.43,66.26,2019-03-31
+tocopilla,cl,"tocopilla, cl",Tocopilla,CL,-22.09,-70.2,62.03,100,12,5.75,62.03,2019-03-31
+olivet,fr,"olivet, fr",Olivet,FR,47.87,1.9,48.22,81,0,11.41,48.99,2019-03-31
+launceston,au,"launceston, au",Launceston,AU,-41.43,147.14,60.44,44,40,5.82,62.01,2019-03-31
+broken hill,au,"broken hill, au",Broken Hill,AU,-31.97,141.45,66.2,52,32,8.05,66.2,2019-03-31
+ilulissat,gl,"ilulissat, gl",Ilulissat,GL,69.22,-51.1,15.8,66,0,18.34,15.8,2019-03-31
+mayor pablo lagerenza,py,"mayor pablo lagerenza, py",Mayor Pablo Lagerenza,PY,-19.93,-60.77,85.88,60,64,9.78,85.88,2019-03-31
+belyy yar,ru,"belyy yar, ru",Belyy Yar,RU,53.6,91.39,39.2,80,0,8.95,39.2,2019-03-31
+san vicente,ph,"san vicente, ph",San Vicente,PH,14.11,122.87,80.57,100,8,13.02,80.57,2019-03-31
+jining,cn,"jining, cn",Jining,CN,35.41,116.58,60.01,16,0,1.99,60.01,2019-03-31
+praia da vitoria,pt,"praia da vitoria, pt",Praia da Vitoria,PT,38.73,-27.07,57.09,82,20,28.57,57.2,2019-03-31
+murdochville,ca,"murdochville, ca",Murdochville,CA,48.96,-65.49,47.36,83,44,15.82,47.36,2019-03-31
+nizhniy tsasuchey,ru,"nizhniy tsasuchey, ru",Nizhniy Tsasuchey,RU,50.52,115.13,38.63,30,0,4.74,38.63,2019-03-31
+menongue,ao,"menongue, ao",Menongue,AO,-14.66,17.68,64.91,45,32,3.06,64.91,2019-03-31
+ginir,et,"ginir, et",Ginir,ET,7.14,40.71,52.76,76,0,2.39,52.76,2019-03-31
+siolim,in,"siolim, in",,,,,,,,,,2019-03-31
+haibowan,cn,"haibowan, cn",,,,,,,,,,2019-03-31
+guaruja,br,"guaruja, br",Guaruja,BR,-23.99,-46.26,69.42,82,75,9.17,70,2019-03-31
+wynyard,ca,"wynyard, ca",Wynyard,CA,51.77,-104.18,25.49,85,56,6.2,25.49,2019-03-31
+jabiru,au,"jabiru, au",,,,,,,,,,2019-03-31
+dakoro,ne,"dakoro, ne",Dakoro,NE,14.51,6.76,74.27,23,0,10.67,74.27,2019-03-31
+korla,cn,"korla, cn",Korla,CN,41.76,86.15,54.2,39,20,4.29,54.2,2019-03-31
+paamiut,gl,"paamiut, gl",Paamiut,GL,61.99,-49.67,26.03,100,76,11.23,26.03,2019-03-31
+ahuimanu,us,"ahuimanu, us",Ahuimanu,US,21.44,-157.84,80.38,69,1,8.05,82.4,2019-03-31
+ponta delgada,pt,"ponta delgada, pt",Ponta Delgada,PT,37.73,-25.67,57.2,71,75,19.46,57.2,2019-03-31
+geraldton,au,"geraldton, au",Geraldton,AU,-28.77,114.6,84.2,48,36,11.41,84.2,2019-03-31
+port hardy,ca,"port hardy, ca",Port Hardy,CA,50.7,-127.42,51.8,71,20,6.93,51.8,2019-03-31
+houma,us,"houma, us",Houma,US,29.6,-90.72,50.85,81,1,6.93,53.6,2019-03-31
+machacamarca,bo,"machacamarca, bo",Machacamarca,BO,-17.45,-67.6,42.68,100,88,1.72,42.68,2019-03-31
+shakawe,bw,"shakawe, bw",Shakawe,BW,-18.36,21.84,66.26,59,0,3.4,66.26,2019-03-31
+betsiamites,ca,"betsiamites, ca",Betsiamites,CA,48.94,-68.65,32,92,90,9.17,32,2019-03-31
+koungheul,sn,"koungheul, sn",Koungheul,SN,13.98,-14.8,77.06,39,0,11.12,77.06,2019-03-31
+astana,kz,"astana, kz",Astana,KZ,51.13,71.43,26.6,100,75,6.71,26.6,2019-03-31
+gisborne,nz,"gisborne, nz",Gisborne,NZ,-38.66,178.02,73.99,68,92,10,73.99,2019-03-31
+huaiyin,cn,"huaiyin, cn",Huaiyin,CN,33.59,119.02,62.3,52,0,13.47,62.3,2019-03-31
+seinajoki,fi,"seinajoki, fi",,,,,,,,,,2019-03-31
+tessalit,ml,"tessalit, ml",Tessalit,ML,20.2,1.01,77.06,37,92,10.67,77.06,2019-03-31
+melnikovo,ru,"melnikovo, ru",Melnikovo,RU,56.55,84.09,33.01,84,80,8.01,33.01,2019-03-31
+gat,ly,"gat, ly",,,,,,,,,,2019-03-31
+miraflores,co,"miraflores, co",Miraflores,CO,5.2,-73.14,47.9,92,24,1.61,47.9,2019-03-31
+dongzhen,cn,"dongzhen, cn",Dongzhen,CN,43.33,129.73,35.03,45,64,5.41,35.03,2019-03-31
+whitley bay,gb,"whitley bay, gb",Whitley Bay,GB,55.04,-1.44,32.7,100,20,1.12,36,2019-03-31
+tianmen,cn,"tianmen, cn",Tianmen,CN,30.65,113.16,64.28,71,64,4.74,64.28,2019-03-31
+port said,eg,"port said, eg",Port Said,EG,25.34,30.55,44.48,59,0,2.84,44.48,2019-03-31
+kinshasa,cd,"kinshasa, cd",Kinshasa,CD,-4.32,15.31,75.2,94,0,2.17,75.2,2019-03-31
+lloydminster,ca,"lloydminster, ca",Lloydminster,CA,53.28,-110.01,35.6,59,90,5.82,35.6,2019-03-31
+ginda,er,"ginda, er",,,,,,,,,,2019-03-31
+bafra,tr,"bafra, tr",Bafra,TR,41.57,35.91,33.8,100,75,2.24,33.8,2019-03-31
+bonthe,sl,"bonthe, sl",Bonthe,SL,7.53,-12.5,80.75,91,0,4.41,80.75,2019-03-31
+kazalinsk,kz,"kazalinsk, kz",,,,,,,,,,2019-03-31
+florianopolis,br,"florianopolis, br",Florianopolis,BR,-27.6,-48.55,70.54,88,75,3.36,73.4,2019-03-31
+nemuro,jp,"nemuro, jp",Nemuro,JP,43.32,145.57,32,100,75,12.75,32,2019-03-31
+port blair,in,"port blair, in",Port Blair,IN,11.67,92.75,83.63,100,0,7.54,83.63,2019-03-31
+gao,ml,"gao, ml",Gao,ML,16.28,-0.04,76.34,34,12,4.18,76.34,2019-03-31
+umm kaddadah,sd,"umm kaddadah, sd",Umm Kaddadah,SD,13.6,26.69,63.38,23,0,12.46,63.38,2019-03-31
+spornoye,ru,"spornoye, ru",Spornoye,RU,50.84,37.29,46.4,61,0,8.95,46.4,2019-03-31
+naron,es,"naron, es",Naron,ES,43.52,-8.15,50.38,93,32,4.7,55,2019-03-31
+totness,sr,"totness, sr",Totness,SR,5.88,-56.32,80.03,97,36,14.7,80.03,2019-03-31
+nome,us,"nome, us",Nome,US,30.04,-94.42,47.25,61,1,4.7,50,2019-03-31
+vysha,ru,"vysha, ru",Vysha,RU,53.85,42.38,40.97,84,76,9.55,40.97,2019-03-31
+jaipur hat,bd,"jaipur hat, bd",,,,,,,,,,2019-03-31
+corowa,au,"corowa, au",Corowa,AU,-36,146.39,66.15,55,0,1.12,72,2019-03-31
+megion,ru,"megion, ru",Megion,RU,61.04,76.11,30.2,86,40,11.18,30.2,2019-03-31
+fairbanks,us,"fairbanks, us",Fairbanks,US,64.84,-147.72,51.57,45,1,4.7,55.4,2019-03-31
+san carlos de bariloche,ar,"san carlos de bariloche, ar",San Carlos de Bariloche,AR,-41.13,-71.31,60.8,67,0,13.87,60.8,2019-03-31
+livingston,us,"livingston, us",Livingston,US,45.66,-110.56,41.92,42,90,4.7,48.2,2019-03-31
+salalah,om,"salalah, om",Salalah,OM,17.01,54.1,77,73,75,3.36,77,2019-03-31
+luderitz,na,"luderitz, na",Luderitz,NA,-26.65,15.16,59.96,83,12,18.84,59.96,2019-03-31
+parrita,cr,"parrita, cr",Parrita,CR,9.52,-84.33,69.1,69,0,4.7,73.4,2019-03-31
+khandyga,ru,"khandyga, ru",Khandyga,RU,62.65,135.58,27.65,59,0,3.51,27.65,2019-03-31
+kuche,cn,"kuche, cn",,,,,,,,,,2019-03-31
+kyren,ru,"kyren, ru",Kyren,RU,51.68,102.13,33.23,82,0,2.62,33.23,2019-03-31
+shache,cn,"shache, cn",Shache,CN,38.42,77.24,53.57,45,0,4.41,53.57,2019-03-31
+puerto escondido,mx,"puerto escondido, mx",Puerto Escondido,MX,15.86,-97.07,80.6,74,40,7.09,80.6,2019-03-31
+vestmanna,fo,"vestmanna, fo",Vestmanna,FO,62.16,-7.17,41,86,80,12.75,41,2019-03-31
+kleck,by,"kleck, by",,,,,,,,,,2019-03-31
+brae,gb,"brae, gb",Brae,GB,60.4,-1.35,42.8,75,68,18.34,42.8,2019-03-31
+santa cruz,cr,"santa cruz, cr",Santa Cruz,CR,10.26,-85.58,84.2,51,0,6.93,84.2,2019-03-31
+lorengau,pg,"lorengau, pg",Lorengau,PG,-2.02,147.27,84.35,94,88,11.56,84.35,2019-03-31
+bay roberts,ca,"bay roberts, ca",Bay Roberts,CA,47.58,-53.28,38.3,100,90,13.87,42.01,2019-03-31
+jijiga,et,"jijiga, et",Jijiga,ET,9.35,42.8,51.41,64,0,3.4,51.41,2019-03-31
+fez,ma,"fez, ma",Fez,MA,34.03,-5.02,52.21,93,40,5.82,53.6,2019-03-31
+reconquista,ar,"reconquista, ar",Reconquista,AR,-29.14,-59.64,76.88,83,68,11.9,76.88,2019-03-31
+nanortalik,gl,"nanortalik, gl",Nanortalik,GL,60.14,-45.24,26.48,100,12,19.28,26.48,2019-03-31
+pimenta bueno,br,"pimenta bueno, br",Pimenta Bueno,BR,-11.68,-61.19,74.45,94,36,2.17,74.45,2019-03-31
+bambanglipuro,id,"bambanglipuro, id",Bambanglipuro,ID,-7.95,110.28,83.09,90,56,4.18,83.09,2019-03-31
+hobyo,so,"hobyo, so",Hobyo,SO,5.35,48.53,80.03,85,92,9.22,80.03,2019-03-31
+le moule,gp,"le moule, gp",Le Moule,GP,16.33,-61.35,75.2,78,20,3.36,75.2,2019-03-31
+tutoia,br,"tutoia, br",Tutoia,BR,-2.76,-42.27,77.24,99,88,3.62,77.24,2019-03-31
+rungata,ki,"rungata, ki",,,,,,,,,,2019-03-31
+teguldet,ru,"teguldet, ru",Teguldet,RU,57.31,88.17,32.96,77,88,11.12,32.96,2019-03-31
+polikhnitos,gr,"polikhnitos, gr",,,,,,,,,,2019-03-31
+nazas,mx,"nazas, mx",Nazas,MX,25.22,-104.11,59.96,40,0,5.19,59.96,2019-03-31
+las palmas,es,"las palmas, es",,,,,,,,,,2019-03-31
+oudtshoorn,za,"oudtshoorn, za",Oudtshoorn,ZA,-33.59,22.2,57.2,82,92,13.87,57.2,2019-03-31
+kollam,in,"kollam, in",Kollam,IN,8.88,76.6,84.2,79,20,4.7,84.2,2019-03-31
+ramasukha,ru,"ramasukha, ru",,,,,,,,,,2019-03-31
+gore,et,"gore, et",Gore,ET,8.15,35.53,56.18,79,0,2.17,56.18,2019-03-31
+brownwood,us,"brownwood, us",Brownwood,US,31.71,-98.99,46.13,39,1,4.7,48.2,2019-03-31
+vallenar,cl,"vallenar, cl",Vallenar,CL,-28.58,-70.76,51.23,87,0,1.61,51.23,2019-03-31
+lagoa,pt,"lagoa, pt",Lagoa,PT,37.14,-8.45,56.73,87,20,4.7,59,2019-03-31
+sungai siput utara,my,"sungai siput utara, my",,,,,,,,,,2019-03-31
+pellerd,hu,"pellerd, hu",Pellerd,HU,46.03,18.15,35.93,85,0,2.28,35.93,2019-03-31
+bathsheba,bb,"bathsheba, bb",Bathsheba,BB,13.22,-59.52,78.8,74,20,11.41,78.8,2019-03-31
+wellington,au,"wellington, au",Wellington,AU,-32.55,148.95,66.09,48,0,13.87,66.2,2019-03-31
+tungor,ru,"tungor, ru",Tungor,RU,53.39,142.95,23.96,95,88,15.48,23.96,2019-03-31
+douglas,us,"douglas, us",Douglas,US,31.51,-82.85,55.65,62,90,8.05,57.2,2019-03-31
+saurimo,ao,"saurimo, ao",Saurimo,AO,-9.66,20.4,64.64,93,24,2.62,64.64,2019-03-31
+utica,us,"utica, us",Utica,US,43.1,-75.23,30.67,70,90,14.99,34,2019-03-31
+morros,br,"morros, br",Morros,BR,-2.87,-44.04,75.35,99,80,2.62,75.35,2019-03-31
+makakilo city,us,"makakilo city, us",Makakilo City,US,21.35,-158.09,80.38,58,1,11.41,82.4,2019-03-31
+kyaikkami,mm,"kyaikkami, mm",Kyaikkami,MM,16.08,97.57,86.15,63,0,2.39,86.15,2019-03-31
+jinchengjiang,cn,"jinchengjiang, cn",,,,,,,,,,2019-03-31
+sompeta,in,"sompeta, in",Sompeta,IN,18.93,84.6,85.07,58,8,5.75,85.07,2019-03-31
+kieta,pg,"kieta, pg",Kieta,PG,-6.22,155.63,81.2,100,56,2.73,81.2,2019-03-31
+arman,ru,"arman, ru",Arman,RU,59.7,150.17,28.01,68,36,10.78,28.01,2019-03-31
+yerbogachen,ru,"yerbogachen, ru",Yerbogachen,RU,61.28,108.01,33.59,70,48,6.64,33.59,2019-03-31
+olafsvik,is,"olafsvik, is",,,,,,,,,,2019-03-31
+kuragino,ru,"kuragino, ru",Kuragino,RU,53.89,92.68,44.21,77,56,4.97,44.21,2019-03-31
+mpongwe,zm,"mpongwe, zm",Mpongwe,ZM,-13.51,28.16,60.5,67,0,6.2,60.5,2019-03-31
+vila,vu,"vila, vu",,,,,,,,,,2019-03-31
+batemans bay,au,"batemans bay, au",Batemans Bay,AU,-35.71,150.18,66,54,12,4,66,2019-03-31
+half moon bay,us,"half moon bay, us",Half Moon Bay,US,37.46,-122.43,61.95,87,1,16.11,71.01,2019-03-31
+roebourne,au,"roebourne, au",Roebourne,AU,-20.77,117.15,98.03,28,0,3.62,98.03,2019-03-31
+yongan,cn,"yongan, cn",Yongan,CN,39.7,113.69,48.26,41,12,3.85,48.26,2019-03-31
+qasigiannguit,gl,"qasigiannguit, gl",Qasigiannguit,GL,68.82,-51.19,15.8,66,0,18.34,15.8,2019-03-31
+svetlogorsk,ru,"svetlogorsk, ru",Svetlogorsk,RU,53.14,59.15,32,91,40,6.71,32,2019-03-31
+wakkanai,jp,"wakkanai, jp",Wakkanai,JP,45.41,141.67,33.8,55,20,8.05,33.8,2019-03-31
+adrar,dz,"adrar, dz",Adrar,DZ,27.87,-0.29,62.6,51,0,6.93,62.6,2019-03-31
+innisfail,au,"innisfail, au",Innisfail,AU,-17.52,146.03,82,70,88,5.99,82,2019-03-31
+marystown,ca,"marystown, ca",Marystown,CA,47.17,-55.16,37,100,92,11.79,37,2019-03-31
+brainerd,us,"brainerd, us",Brainerd,US,46.36,-94.2,28.81,92,90,3.36,30.99,2019-03-31
+xuanhua,cn,"xuanhua, cn",Xuanhua,CN,40.61,115.04,41.96,39,12,2.39,41.96,2019-03-31
+mandera,ke,"mandera, ke",Mandera,KE,3.94,41.87,70,22,0,1.01,70,2019-03-31
+albacete,es,"albacete, es",Albacete,ES,39,-1.86,45.99,93,75,4.7,48.2,2019-03-31
+slave lake,ca,"slave lake, ca",Slave Lake,CA,55.28,-114.77,37.4,69,75,3.36,37.4,2019-03-31
+san esteban,hn,"san esteban, hn",San Esteban,HN,15.21,-85.77,65,55,0,2.28,65,2019-03-31
+jutai,br,"jutai, br",Jutai,BR,-1.71,-47.89,74.27,99,92,1.72,74.27,2019-03-31
+road town,vg,"road town, vg",Road Town,VG,18.42,-64.62,77.45,69,20,5.82,78.8,2019-03-31
+nara,ml,"nara, ml",Nara,ML,15.17,-7.29,77.33,46,36,3.74,77.33,2019-03-31
+ulladulla,au,"ulladulla, au",Ulladulla,AU,-35.36,150.48,62.6,82,75,10.22,62.6,2019-03-31
+fukue,jp,"fukue, jp",Fukue,JP,35.03,136.69,52.38,53,20,13.87,57.99,2019-03-31
+santa isabel do rio negro,br,"santa isabel do rio negro, br",Santa Isabel do Rio Negro,BR,-0.41,-65.02,79.76,87,0,4.63,79.76,2019-03-31
+bur gabo,so,"bur gabo, so",,,,,,,,,,2019-03-31
+nizwa,om,"nizwa, om",Nizwa,OM,22.93,57.53,62.75,40,0,2.06,62.75,2019-03-31
+qaqortoq,gl,"qaqortoq, gl",Qaqortoq,GL,60.72,-46.03,14,43,0,9.17,14,2019-03-31
+merauke,id,"merauke, id",Merauke,ID,-8.49,140.4,82.1,97,76,8.21,82.1,2019-03-31
+saravan,la,"saravan, la",,,,,,,,,,2019-03-31
+riyadh,sa,"riyadh, sa",Riyadh,SA,24.63,46.72,71.6,78,0,13.69,71.6,2019-03-31
+buenos aires,cr,"buenos aires, cr",Buenos Aires,CR,9.17,-83.33,73.28,100,8,1.16,73.28,2019-03-31
+the valley,ai,"the valley, ai",The Valley,AI,18.22,-63.06,78.26,74,20,5.82,78.8,2019-03-31
+carutapera,br,"carutapera, br",Carutapera,BR,-1.2,-46.02,77.15,100,92,5.64,77.15,2019-03-31
+russell,nz,"russell, nz",Russell,NZ,-35.26,174.12,71.01,95,92,5.99,71.01,2019-03-31
+beisfjord,no,"beisfjord, no",Beisfjord,NO,68.38,17.6,29.61,90,88,31.09,33.01,2019-03-31
+dwarka,in,"dwarka, in",Dwarka,IN,28.58,77.04,72.41,63,0,4.7,87.01,2019-03-31
+dustlik,uz,"dustlik, uz",Dustlik,UZ,40.53,68.03,42.77,98,76,5.08,42.77,2019-03-31
+sistranda,no,"sistranda, no",Sistranda,NO,63.73,8.83,34.81,74,20,10.29,37,2019-03-31
+kenora,ca,"kenora, ca",Kenora,CA,49.76,-94.48,30.13,74,90,5.82,30.2,2019-03-31
+hofn,is,"hofn, is",Hofn,IS,64.25,-15.21,40.16,99,68,16.93,40.16,2019-03-31
+kabansk,ru,"kabansk, ru",Kabansk,RU,52.06,106.65,30.2,50,0,4.47,30.2,2019-03-31
+buritizeiro,br,"buritizeiro, br",Buritizeiro,BR,-17.37,-44.96,72.65,74,88,2.62,72.65,2019-03-31
+beloha,mg,"beloha, mg",Beloha,MG,-25.17,45.06,59.96,82,0,3.06,59.96,2019-03-31
+port augusta,au,"port augusta, au",Port Augusta,AU,-32.49,137.76,69.37,56,0,10.29,71.01,2019-03-31
+krasnaya gorka,ru,"krasnaya gorka, ru",Krasnaya Gorka,RU,55.19,56.67,35.39,95,92,16.04,35.39,2019-03-31
+pengcheng,cn,"pengcheng, cn",Pengcheng,CN,36.43,114.17,56.99,43,0,4.07,56.99,2019-03-31
+dauphin,ca,"dauphin, ca",Dauphin,CA,51.15,-100.04,33.8,74,90,3.36,33.8,2019-03-31
+bomet,ke,"bomet, ke",Bomet,KE,-0.78,35.34,51.23,95,0,7.43,51.23,2019-03-31
+sambava,mg,"sambava, mg",Sambava,MG,-14.27,50.17,80.21,100,44,3.18,80.21,2019-03-31
+uruacu,br,"uruacu, br",Uruacu,BR,-14.52,-49.14,74.18,74,20,2.84,74.18,2019-03-31
+hammerfest,no,"hammerfest, no",Hammerfest,NO,70.66,23.68,26.6,92,75,41.38,26.6,2019-03-31
+shieli,kz,"shieli, kz",Shieli,KZ,44.18,66.74,38.54,99,56,10.33,38.54,2019-03-31
+voi,ke,"voi, ke",Voi,KE,-3.4,38.57,70.13,97,88,0.16,70.13,2019-03-31
+harper,lr,"harper, lr",Harper,LR,4.38,-7.71,83.99,98,48,5.64,83.99,2019-03-31
+nazret,et,"nazret, et",Nazret,ET,8.55,39.27,66.8,48,64,3.74,66.8,2019-03-31
+marabba,sd,"marabba, sd",Marabba,SD,12.35,32.18,67.16,30,0,11.34,67.16,2019-03-31
+kencong,id,"kencong, id",Kencong,ID,-7.78,112.24,79.22,89,56,4.18,79.22,2019-03-31
+basco,ph,"basco, ph",Basco,PH,20.45,121.97,77.51,100,64,24.2,77.51,2019-03-31
+bajil,ye,"bajil, ye",Bajil,YE,15.06,43.29,69.59,91,20,3.74,69.59,2019-03-31
+metro,id,"metro, id",Metro,ID,-5.11,105.31,85.88,79,12,5.97,85.88,2019-03-31
+luan,cn,"luan, cn",,,,,,,,,,2019-03-31
+karamea,nz,"karamea, nz",,,,,,,,,,2019-03-31
+matara,lk,"matara, lk",Matara,LK,5.95,80.54,83,90,0,5.08,83,2019-03-31
+marawi,sd,"marawi, sd",Marawi,SD,18.48,31.82,56.54,42,0,7.99,56.54,2019-03-31
+emmett,us,"emmett, us",Emmett,US,43.87,-116.5,57.67,28,1,4.7,62.6,2019-03-31
+labuhan,id,"labuhan, id",Labuhan,ID,-2.54,115.51,85.43,73,36,2.73,85.43,2019-03-31
+gijon,es,"gijon, es",Gijon,ES,43.54,-5.66,49.64,93,0,5.82,55,2019-03-31
+guimar,es,"guimar, es",Guimar,ES,28.3,-16.43,56.91,93,76,13.87,62.6,2019-03-31
+nantucket,us,"nantucket, us",Nantucket,US,41.28,-70.1,43.23,81,90,11.41,45,2019-03-31
+bodden town,ky,"bodden town, ky",Bodden Town,KY,19.28,-81.25,78.6,88,20,8.05,79,2019-03-31
+sangar,ru,"sangar, ru",Sangar,RU,63.92,127.47,25.94,63,12,2.95,25.94,2019-03-31
+sehwan,pk,"sehwan, pk",Sehwan,PK,26.43,67.86,68,72,0,2.06,68,2019-03-31
+ostersund,se,"ostersund, se",Ostersund,SE,63.18,14.64,26.24,73,56,4.7,26.6,2019-03-31
+neustadt,de,"neustadt, de",Neustadt,DE,47.92,8.21,44.42,80,0,5.08,48.99,2019-03-31
+champerico,gt,"champerico, gt",Champerico,GT,14.3,-91.92,78.32,85,0,4.74,78.32,2019-03-31
+goderich,sl,"goderich, sl",,,,,,,,,,2019-03-31
+kamalia,pk,"kamalia, pk",Kamalia,PK,30.73,72.64,76.7,46,0,2.95,76.7,2019-03-31
+vuktyl,ru,"vuktyl, ru",Vuktyl,RU,63.86,57.31,27.38,80,88,4.29,27.38,2019-03-31
+mansa,zm,"mansa, zm",Mansa,ZM,-11.21,28.88,64.91,87,20,7.2,64.91,2019-03-31
+rio grande,br,"rio grande, br",Rio Grande,BR,-32.03,-52.1,69.05,95,12,6.64,69.05,2019-03-31
+virginia beach,us,"virginia beach, us",Virginia Beach,US,36.85,-75.98,48.06,87,75,4.29,50,2019-03-31
+tahoua,ne,"tahoua, ne",Tahoua,NE,14.89,5.26,75.71,23,24,11.68,75.71,2019-03-31
+changli,cn,"changli, cn",Changli,CN,30.54,105.42,57.98,91,92,6.76,57.98,2019-03-31
+kostomuksha,ru,"kostomuksha, ru",Kostomuksha,RU,64.59,30.6,22.25,85,0,6.64,22.25,2019-03-31
+san jose,gt,"san jose, gt",San Jose,GT,16.98,-89.9,80.21,45,0,8.32,80.21,2019-03-31
+hvide sande,dk,"hvide sande, dk",Hvide Sande,DK,56.01,8.13,28.35,86,0,1.12,30.2,2019-03-31
+finschhafen,pg,"finschhafen, pg",Finschhafen,PG,-6.6,147.85,79.49,87,76,2.73,79.49,2019-03-31
+zlocieniec,pl,"zlocieniec, pl",Zlocieniec,PL,53.53,16.01,27.54,84,0,2.95,28,2019-03-31
+pinawa,ca,"pinawa, ca",Pinawa,CA,50.15,-95.88,27.65,84,88,9.1,27.65,2019-03-31
+socorro,br,"socorro, br",Socorro,BR,-22.59,-46.53,67.88,72,8,9.66,67.88,2019-03-31
+umba,ru,"umba, ru",Umba,RU,66.69,34.34,22.25,79,8,11.56,22.25,2019-03-31
+muzquiz,mx,"muzquiz, mx",,,,,,,,,,2019-03-31
+karauzyak,uz,"karauzyak, uz",,,,,,,,,,2019-03-31
+poum,nc,"poum, nc",Poum,NC,-20.23,164.02,79.49,100,100,2.51,79.49,2019-03-31
+soe,id,"soe, id",Soe,ID,-9.86,124.28,82.37,63,0,1.39,82.37,2019-03-31
+longyan,cn,"longyan, cn",Longyan,CN,25.1,117.03,57.53,95,88,2.17,57.53,2019-03-31
+mbarara,ug,"mbarara, ug",Mbarara,UG,-0.61,30.65,57.08,96,8,2.73,57.08,2019-03-31
+swellendam,za,"swellendam, za",Swellendam,ZA,-34.02,20.44,55.4,82,8,9.17,55.4,2019-03-31
+wanning,cn,"wanning, cn",Wanning,CN,18.8,110.4,75.8,100,80,7.2,75.8,2019-03-31
+tongzi,cn,"tongzi, cn",Tongzi,CN,28.78,105.09,62.12,77,88,4.18,62.12,2019-03-31
+kiama,au,"kiama, au",Kiama,AU,-34.67,150.86,66.15,82,75,5.97,69.01,2019-03-31
+ondorhaan,mn,"ondorhaan, mn",,,,,,,,,,2019-03-31
+gotsu,jp,"gotsu, jp",Gotsu,JP,35.01,132.22,48.2,49,75,18.34,48.2,2019-03-31
+tagusao,ph,"tagusao, ph",Tagusao,PH,9.19,117.81,86.51,69,0,5.75,86.51,2019-03-31
+hami,cn,"hami, cn",Hami,CN,42.84,93.51,55.55,47,88,6.2,55.55,2019-03-31
+banda aceh,id,"banda aceh, id",Banda Aceh,ID,5.56,95.32,83.18,86,8,1.72,83.18,2019-03-31
+oksfjord,no,"oksfjord, no",Oksfjord,NO,70.24,22.35,26.42,92,75,41.38,26.6,2019-03-31
+lufilufi,ws,"lufilufi, ws",Lufilufi,WS,-13.87,-171.6,82,74,0,10,82,2019-03-31
+berlevag,no,"berlevag, no",Berlevag,NO,70.86,29.09,29,100,48,19.28,29,2019-03-31
+mwinilunga,zm,"mwinilunga, zm",Mwinilunga,ZM,-11.73,24.43,60.32,82,0,2.84,60.32,2019-03-31
+cidreira,br,"cidreira, br",Cidreira,BR,-30.17,-50.22,66.17,95,0,2.62,66.17,2019-03-31
+scarborough,tt,"scarborough, tt",Scarborough,TT,11.18,-60.73,80.6,74,20,8.05,80.6,2019-03-31
+mandalgovi,mn,"mandalgovi, mn",Mandalgovi,MN,45.76,106.27,35.39,63,92,9.78,35.39,2019-03-31
+uruguaiana,br,"uruguaiana, br",Uruguaiana,BR,-29.77,-57.08,74.32,88,20,5.82,75.2,2019-03-31
+kamenskoye,ru,"kamenskoye, ru",,,,,,,,,,2019-03-31
+omsukchan,ru,"omsukchan, ru",Omsukchan,RU,62.53,155.8,18.74,84,88,7.76,18.74,2019-03-31
+sobolevo,ru,"sobolevo, ru",Sobolevo,RU,54.43,31.9,33.59,73,24,15.48,33.59,2019-03-31
+roald,no,"roald, no",Roald,NO,62.58,6.12,35.02,69,48,20.8,39.99,2019-03-31
+safaga,eg,"safaga, eg",,,,,,,,,,2019-03-31
+teseney,er,"teseney, er",Teseney,ER,15.11,36.66,60.68,38,0,5.97,60.68,2019-03-31
+sinnamary,gf,"sinnamary, gf",Sinnamary,GF,5.38,-52.96,79.58,96,56,8.66,79.58,2019-03-31
+alihe,cn,"alihe, cn",Alihe,CN,50.57,123.73,31.88,40,56,6.76,31.88,2019-03-31
+jiuquan,cn,"jiuquan, cn",Jiuquan,CN,39.73,98.49,43.85,69,44,2.62,43.85,2019-03-31
+teterow,de,"teterow, de",Teterow,DE,53.77,12.58,28.83,92,0,1.12,30,2019-03-31
+vanimo,pg,"vanimo, pg",Vanimo,PG,-2.67,141.3,82.1,100,32,13.24,82.1,2019-03-31
+madera,mx,"madera, mx",Madera,MX,29.2,-108.14,51.41,60,0,6.76,51.41,2019-03-31
+gornopravdinsk,ru,"gornopravdinsk, ru",Gornopravdinsk,RU,60.06,69.92,30.08,74,0,9.22,30.08,2019-03-31
+brownsville,us,"brownsville, us",Brownsville,US,25.91,-97.49,48.31,81,90,13.87,48.99,2019-03-31
+atbasar,kz,"atbasar, kz",Atbasar,KZ,51.81,68.36,29.81,82,0,3.18,29.81,2019-03-31
+sao miguel do araguaia,br,"sao miguel do araguaia, br",Sao Miguel do Araguaia,BR,-13.28,-50.16,73.91,92,0,2.73,73.91,2019-03-31
+mao,td,"mao, td",Mao,TD,14.12,15.31,68.51,22,0,11.68,68.51,2019-03-31
+teluk nibung,id,"teluk nibung, id",,,,,,,,,,2019-03-31
+ewa beach,us,"ewa beach, us",Ewa Beach,US,21.32,-158.01,80.38,58,1,11.41,82.4,2019-03-31
+butzow,de,"butzow, de",Butzow,DE,52.49,12.6,31.14,68,0,1.12,37,2019-03-31

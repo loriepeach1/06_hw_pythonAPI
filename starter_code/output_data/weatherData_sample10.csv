@@ -1,11 +1,11 @@
 city,country,location,newCity,newCountry,lat,long,tempF,humidity,cloud,windMPH,maxTemp,date
-castro,cl,"castro, cl",Castro,CL,-42.48,-73.76,53.6,100,90,6.93,53.6,2019-03-31
-punta arenas,cl,"punta arenas, cl",Punta Arenas,CL,-53.16,-70.91,50.99,81,75,9.17,51.8,2019-03-31
-rikitea,pf,"rikitea, pf",Rikitea,PF,-23.12,-134.97,76.79,100,36,16.82,76.79,2019-03-31
-lagoa,pt,"lagoa, pt",Lagoa,PT,37.14,-8.45,56.71,87,40,2.24,59,2019-03-31
-imeni poliny osipenko,ru,"imeni poliny osipenko, ru",Imeni Poliny Osipenko,RU,52.42,136.49,28.01,74,76,10,28.01,2019-03-31
-longyearbyen,sj,"longyearbyen, sj",Longyearbyen,SJ,78.22,15.64,5,77,20,3.36,5,2019-03-31
-port hardy,ca,"port hardy, ca",Port Hardy,CA,50.7,-127.42,51.8,71,20,6.93,51.8,2019-03-31
-chuy,uy,"chuy, uy",Chuy,UY,-33.69,-53.46,64.01,90,44,4.97,64.01,2019-03-31
-sokode,tg,"sokode, tg",Sokode,TG,8.98,1.13,76.07,79,20,2.95,76.07,2019-03-31
-albany,au,"albany, au",Albany,AU,-35.02,117.88,77,44,76,18.34,77,2019-03-31
+eyl,so,"eyl, so",Eyl,SO,7.98,49.82,74.91,100,12,5.17,74.91,2019-04-07
+pevek,ru,"pevek, ru",Pevek,RU,69.7,170.27,5.52,99,12,5.06,5.52,2019-04-07
+nicoya,cr,"nicoya, cr",Nicoya,CR,10.15,-85.45,93.2,46,20,8.05,93.2,2019-04-07
+daru,pg,"daru, pg",Daru,PG,-9.07,143.21,83.1,100,44,4.72,83.1,2019-04-07
+rio gallegos,ar,"rio gallegos, ar",Rio Gallegos,AR,-51.62,-69.22,50,61,40,4.7,50,2019-04-07
+longyearbyen,sj,"longyearbyen, sj",Longyearbyen,SJ,78.22,15.64,5,92,20,8.05,5,2019-04-07
+kahului,us,"kahului, us",Kahului,US,20.89,-156.47,78.76,51,20,10.29,82.4,2019-04-07
+ilulissat,gl,"ilulissat, gl",Ilulissat,GL,69.22,-51.1,39.2,48,44,16.11,39.2,2019-04-07
+noumea,nc,"noumea, nc",Noumea,NC,-22.28,166.46,75.2,69,0,5.82,75.2,2019-04-07
+busselton,au,"busselton, au",Busselton,AU,-33.64,115.35,48.72,64,0,12.33,51.01,2019-04-07

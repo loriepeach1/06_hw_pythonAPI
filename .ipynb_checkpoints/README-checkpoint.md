@@ -4,15 +4,14 @@
 
 This project proved what we already know - in general, the wether is warmer near the equator.    500 random lat and long coordinates were generated from the citipy library.    For each lat and long, the city weather details were obtained via an API call to openWeatherMap.    Finally, via a python script the weather of 500+ cities across the world of varying distance from the equator could be visualized.
 
-![InitialLoad](ReadMeImages/Picture1.png)
 
-![Temperature](output_data/fig1_latitudeTemp.png)
-
-![Humidity](output_data/fig2_latitudeHumidity.png)
-
-![Cloudiness](output_data/fig3_latitudeCloudiness.png)
-
-![Wind_speed](output_data/fig4_latitudeWindSpeed.png)
+![Temperature](ReadMeImages/fig1_latitudeTemp.png)
+<p>
+![Humidity](ReadMeImages/fig2_latitudeHumidity.png)
+<p>
+![Cloudiness](ReadMeImages/fig3_latitudeCloudiness.png)
+<p>
+![Wind_speed](ReadMeImages/fig4_latitudeWindSpeed.png)
 
 ## Tools & Technologies Used: 
 

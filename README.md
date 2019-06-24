@@ -7,13 +7,12 @@ This project proved what we already know - in general, the wether is warmer near
 
 ![Temperature](ReadMeImages/fig1_latitudeTemp.png)
 
-<br>
 ![Humidity](ReadMeImages/fig2_latitudeHumidity.png)
 
-<br>    
+    
 ![Cloudiness](ReadMeImages/fig3_latitudeCloudiness.png)
 
-<br>    
+   
 ![Wind_speed](ReadMeImages/fig4_latitudeWindSpeed.png)
 
 ## Tools & Technologies Used: 
